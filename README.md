@@ -1,15 +1,20 @@
-# What is this?
+# Đây là gì?
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+Trình chỉnh sửa web github.dev là một trải nghiệm chỉnh sửa nhẹ, chạy hoàn toàn trên trình duyệt của bạn.  
+Bạn có thể điều hướng qua các tệp và kho lưu trữ mã nguồn từ GitHub, đồng thời thực hiện và commit các thay đổi mã.
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+Có hai cách để truy cập trực tiếp vào môi trường VS Code trên trình duyệt và bắt đầu viết mã:
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+* Nhấn phím `.` (dấu chấm) khi đang ở bất kỳ kho lưu trữ hoặc pull request nào.
+* Thay `.com` trong URL bằng `.dev`.  
+  Ví dụ: kho lưu trữ này `https://github.com/github/dev` sẽ trở thành `http://github.dev/github/dev`
 
-Preview the gif below to get a quick demo of github.dev in action.
+Xem ảnh động (GIF) dưới đây để xem bản demo nhanh về github.dev đang hoạt động:
 
 ![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+# Tại sao?
+
+Đây là một cách nhanh chóng để chỉnh sửa và điều hướng mã.  
+Đặc biệt hữu ích nếu bạn muốn chỉnh sửa nhiều tệp cùng lúc hoặc tận dụng tất cả các tính năng mạnh mẽ của Visual Studio Code khi cần thực hiện một thay đổi nhanh.  
+Để biết thêm thông tin, xem [tài liệu](https://github.co/codespaces-editor-help).
